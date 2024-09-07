@@ -1,5 +1,5 @@
 # coursera_assignments
 Objectives:
-Introduction to Arithmetic Expressions
-commonly used libraries in Data Science
-Data science tools
+1. Introduction to Arithmetic Expressions
+2. commonly used libraries in Data Science
+3. Data science tools
